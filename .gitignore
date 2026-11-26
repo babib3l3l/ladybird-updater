@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+config.json
+status.json
+status.tmp
+worker.lock
+skipped-revision
+*.log
+test-*/
